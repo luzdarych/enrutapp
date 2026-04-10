@@ -1,0 +1,1 @@
+'Equipo EnRutApp — SENA Duitama 2026'
