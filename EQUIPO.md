@@ -1,3 +1,3 @@
 'Equipo EnRutApp — SENA Duitama 2026'
 'luz dary'
-'Juan Puerto'
+'Juan A. Puerto'
